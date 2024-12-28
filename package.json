@@ -1,0 +1,13 @@
+
+{
+  "name": "vercel-printer-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "pdf-to-printer": "^5.0.0",
+    "pdfkit": "^0.13.0"
+  }
+}
